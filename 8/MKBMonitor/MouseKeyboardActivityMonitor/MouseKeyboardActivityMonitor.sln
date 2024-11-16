@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseKeyboardActivityMonitor", "MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor.csproj", "{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsKeyboardLayout", "..\..\..\4\WindowsKeyboardLayout\WindowsKeyboardLayout.vcxproj", "{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsKeyboardLayoutTest", "..\..\..\4\WindowsKeyboardLayoutTest\WindowsKeyboardLayoutTest.vcxproj", "{F17016EA-957F-4728-8BF0-1D8893067EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Debug|x86.Build.0 = Debug|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Release|x86.ActiveCfg = Release|Any CPU
+		{46ABBD5A-3822-4A1D-B261-9F2AD59EACAE}.Release|x86.Build.0 = Release|Any CPU
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Debug|Any CPU.Build.0 = Debug|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Debug|x86.Build.0 = Debug|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Release|Any CPU.Build.0 = Release|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Release|x86.ActiveCfg = Release|Win32
+		{EC8EB985-A262-4DC3-8D3E-AE38786C8B7D}.Release|x86.Build.0 = Release|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Debug|Any CPU.Build.0 = Debug|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Debug|x86.Build.0 = Debug|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Release|Any CPU.Build.0 = Release|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Release|x86.ActiveCfg = Release|Win32
+		{F17016EA-957F-4728-8BF0-1D8893067EE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43666BCB-AB6F-4D42-9CCE-A0207366BB87}
+	EndGlobalSection
+EndGlobal

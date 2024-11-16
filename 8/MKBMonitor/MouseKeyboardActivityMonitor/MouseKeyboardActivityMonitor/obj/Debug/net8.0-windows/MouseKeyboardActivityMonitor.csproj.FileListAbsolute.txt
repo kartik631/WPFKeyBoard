@@ -1,0 +1,11 @@
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\bin\Debug\net8.0-windows\MouseKeyboardActivityMonitor.deps.json
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\bin\Debug\net8.0-windows\MouseKeyboardActivityMonitor.dll
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\bin\Debug\net8.0-windows\MouseKeyboardActivityMonitor.pdb
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.AssemblyInfoInputs.cache
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.AssemblyInfo.cs
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.csproj.CoreCompileInputs.cache
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.dll
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\refint\MouseKeyboardActivityMonitor.dll
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\MouseKeyboardActivityMonitor.pdb
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0-windows\ref\MouseKeyboardActivityMonitor.dll

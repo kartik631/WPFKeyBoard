@@ -1,0 +1,76 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly WindowsKeyboardLayout, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class WPFKeyboardNative.CharModifier: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 ModifierBits 'get ' : 
+    Int32 VirtualKey 'get ' : 
+  Methods:
+    get_VirtualKey(): PrivateScope, Public, HideBySig, SpecialName
+    get_ModifierBits(): PrivateScope, Public, HideBySig, SpecialName
+Class WPFKeyboardNative.Definitions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 WCH_NONE : Public, Static
+    Int32 WCH_DEAD : Public, Static
+    Int32 WCH_LGTR : Public, Static
+    Int32 CAPLOK : Public, Static
+    Int32 SGCAPS : Public, Static
+    Int32 CAPLOKALTGR : Public, Static
+Class WPFKeyboardNative.VirtualKey: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Attributes 'get ' : 
+    Int32[] Characters 'get ' : 
+    Int32 Key  'get ' : 
+  Methods:
+    get_Key(): PrivateScope, Public, HideBySig, SpecialName
+    get_Characters(): PrivateScope, Public, HideBySig, SpecialName
+    get_Attributes(): PrivateScope, Public, HideBySig, SpecialName
+Class WPFKeyboardNative.ScanCode: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Boolean, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean E1Set 'get ' : 
+    Boolean E0Set 'get ' : 
+    Int32 Code 'get ' : 
+    Int32 VirtualKey 'get ' : 
+  Methods:
+    get_VirtualKey(): PrivateScope, Public, HideBySig, SpecialName
+    get_Code(): PrivateScope, Public, HideBySig, SpecialName
+    get_E0Set(): PrivateScope, Public, HideBySig, SpecialName
+    get_E1Set(): PrivateScope, Public, HideBySig, SpecialName
+Class WPFKeyboardNative.ScanCodeText: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Text 'get ' : 
+    Int32 ScanCode 'get ' : 
+  Methods:
+    get_ScanCode(): PrivateScope, Public, HideBySig, SpecialName
+    get_Text(): PrivateScope, Public, HideBySig, SpecialName
+Class WPFKeyboardNative.KeyboardLayout: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.List`1[WPFKeyboardNative.ScanCodeText] CodeText 'get ' : 
+    System.Collections.Generic.List`1[WPFKeyboardNative.ScanCode] ScanCodes 'get ' : 
+    System.Collections.Generic.List`1[WPFKeyboardNative.VirtualKey] VirtualKeys 'get ' : 
+    System.Collections.Generic.List`1[WPFKeyboardNative.CharModifier] CharModifiers 'get ' : 
+  Methods:
+    get_CharModifiers(): PrivateScope, Public, HideBySig, SpecialName
+    get_VirtualKeys(): PrivateScope, Public, HideBySig, SpecialName
+    get_ScanCodes(): PrivateScope, Public, HideBySig, SpecialName
+    get_CodeText(): PrivateScope, Public, HideBySig, SpecialName
+Class WPFKeyboardNative.KeyboardLayoutHelper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetLayout(String): PrivateScope, Public, Static, HideBySig
+Class WPFKeyboardNative.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

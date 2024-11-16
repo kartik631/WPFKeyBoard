@@ -1,0 +1,4 @@
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0\MouseKeyboardActivityMonitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0\MouseKeyboardActivityMonitor.AssemblyInfoInputs.cache
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0\MouseKeyboardActivityMonitor.AssemblyInfo.cs
+E:\POC\Keyboard\8\MKBMonitor\MouseKeyboardActivityMonitor\MouseKeyboardActivityMonitor\obj\Debug\net8.0\MouseKeyboardActivityMonitor.csproj.CoreCompileInputs.cache
